@@ -1,0 +1,7 @@
+---
+title: "About Us"
+weight: 1
+header_menu: true
+---
+
+The Central Computer Centre is running under the aegis of Department of Computer Science and Engineering to provide facilities and support in terms of Computers, Networks and Information Systems to whole of the Institute. The Computer Center is providing centralized computing facilities to the whole college beyond the college hours. It is operational from 8.30 A.M. to 6.30 P.M. on week days and from 8.30 A.M. to 4.30 P.M. on Saturday and Sunday. Students and staff from all the branches use the Computer Center facilities for Internet surfing and academic work. The Computer Center is equipped with 1000 Mbps (1:1 pure) Leased Line Internet Connectivity which provides Internet facilities to the whole college. The bandwidth is procured from two different Internet Service Providers to achieve the redundancy. The Computer Center has its own three labs having more than 100 Desktop Computers / Workstations. The Center has High End Servers and Workstations. The College has its own Mail Server and Web Server which are managed by Computer Center along with Authentication Server, File Server and Others. Firewall is installed for Content Filtering, Monitoring and Threat Management. The whole college is connected to the Internet through wired and wi-fi network. The whole infrastructure is on uninterrupted power supply, in case of failure, the Genset power supply is also available. Computer Center is covered in approximate 300 sq.m. At present Pf. Jasbir Singh Saini is the Officer Incharge Computer Centre.
